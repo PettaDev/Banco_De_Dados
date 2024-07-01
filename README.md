@@ -96,6 +96,7 @@ Tabela para alocar o contrato.
 
 - **Colunas Principais**:
   - `Pk_id`
+  - `nome`
   - `caminho_contrato`
   - `data_criacao`
   - `Fk_id_plano`
